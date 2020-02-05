@@ -1,7 +1,7 @@
 version: '3'
 services:
   nextjs:
-          image: "apardo04/assignment-1_nextjs:1.0.0"
+          image: "apardo04/assignment-1_nextjs:1.0.1"
   nginx:
           image: "apardo04/assignment-1_nginx:1.0.0"
           ports:
